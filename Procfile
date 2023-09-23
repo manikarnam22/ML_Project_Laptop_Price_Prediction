@@ -1,0 +1,1 @@
+wb: sh setup.sh && stramlit run main.py
